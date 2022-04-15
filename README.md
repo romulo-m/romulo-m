@@ -22,6 +22,6 @@
   <a href = "mailto:romulo.mgaudencio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-miranda-b8a365211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/romulo-m/romulo-m/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/romulo-m/romulo-m/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
