@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###
-Sou formado em Análise e Desenvolvimento de sistemas e pós-graduado em Gestão de TI, porém ainda não exerço a profissão, em transição de carreira atualmente.
-Eu gosto muito de aprender coisas novas!! 
+Sou formado em Análise e Desenvolvimento de sistemas e pós-graduado em Gestão de TI.
+Eu gosto muito de aprender coisas novas e sou movido a desafios.
 Sou aluno da T17 da resília educação, onde estou me desenvolvendo como Full-Stack Web Developer.
 
 - 📫 Contate-me no email: romulo.mgaudencio@gmail.com
